@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Starry String",
+  "description": "An interactive gesture-based audio-visual experience inspired by Van Gogh.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
